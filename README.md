@@ -21,5 +21,5 @@ Supported OS on "remote servers" :
 - AIX 
 
 Requirements : 
-- on Web Server : Apache with PHP
-- on remote servers : sudo root rights on the netstat command (to get the processes name with -p argument)
+- on the web server : Apache with PHP
+- on the remote servers : sudo root rights on the netstat command (to get the processes name with -p argument)
